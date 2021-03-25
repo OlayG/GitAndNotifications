@@ -1,3 +1,3 @@
 # GitAndNotifications
 
-TODO
+This app creates notifications.
